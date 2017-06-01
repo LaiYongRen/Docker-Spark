@@ -15,7 +15,7 @@ $docker-compose up
 ```
 4.Web ui test (jupyter test have to enter token,token in ternimal can see it)
 
-http://localhost:8080
+http://localhost:8080    
 http://localhost:8888
 
 
